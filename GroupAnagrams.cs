@@ -163,7 +163,7 @@ public static class Solution {
                 dict[sortedString].Add(strs[i]);
             }
         }
-        
+
         return dict.Values.ToList();
     }
 }
