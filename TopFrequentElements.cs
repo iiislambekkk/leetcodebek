@@ -2,7 +2,7 @@
 
 // Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order.
 
-Console.WriteLine(string.Join(", ", Solution.TopKFrequent([1,1,1,2,2,3], 2)));
+Console.WriteLine(string.Join(", ", Solution.TopKFrequent([1,1,1,2,2,3,5,5,5,5,5,5,5], 2)));
 
 
 public class Solution {
@@ -17,7 +17,7 @@ public class Solution {
                 frequencyDict[num] += 1;
             }
         }
-
+        
 
         List<int>[] buckets = new List<int>[nums.Length + 1];
         for (int b = 0; b < buckets.Length; b++)
@@ -25,9 +25,9 @@ public class Solution {
             buckets[b] = new List<int>();
         }
 
-        foreach (var num in nums)
+        foreach (var (key, val) in frequencyDict)
         {
-            buckets[frequencyDict[num]].Add(num);
+            buckets[val].Add(key);
         }
 
         var result = new List<int>(k);
