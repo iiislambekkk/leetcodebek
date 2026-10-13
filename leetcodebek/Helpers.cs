@@ -21,7 +21,7 @@ public static class Helpers
             Console.ResetColor();
             Console.Write(unit);
         }
-
+        
         if (stopWatch.Elapsed.TotalSeconds >= 1)
         {
             WriteColored(stopWatch.Elapsed.TotalSeconds, "F3", " s. Or ");
