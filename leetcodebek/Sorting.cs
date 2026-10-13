@@ -41,21 +41,12 @@ public static class Sorting
         
         for (int i = 1; i < list.Count; i++)
         {
-            for (int k = 0; k < i; k++)
+            var temp = list[i];
+            for (int k = i - 1; k >= 0; k--)
             {
-                if (list[i].CompareTo(list[k]) < 0)
+                if (temp.CompareTo(list[k]) < 0)
                 {
-                    var temp = list[k];
-                    list[k] = list[i];
-
-                    for (int j = k + 2; j < i; j++)
-                    {
-                        (list[j], list[j + 1]) = (list[j + 1], list[j]);
-                    }
-                    
-                    Console.WriteLine(string.Join(", ", list));
-
-                    break;
+                    (list[k], list[k + 1]) = (temp, list[k]);
                 }
             }
         }
