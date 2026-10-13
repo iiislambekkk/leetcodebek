@@ -1,0 +1,17 @@
+C:\Users\merla\Desktop\leetcodebek\leetcodebek\bin\Debug\net11.0\leetcodebek.exe
+C:\Users\merla\Desktop\leetcodebek\leetcodebek\bin\Debug\net11.0\leetcodebek.deps.json
+C:\Users\merla\Desktop\leetcodebek\leetcodebek\bin\Debug\net11.0\leetcodebek.runtimeconfig.json
+C:\Users\merla\Desktop\leetcodebek\leetcodebek\bin\Debug\net11.0\leetcodebek.runtimeconfig.dev.json
+C:\Users\merla\Desktop\leetcodebek\leetcodebek\bin\Debug\net11.0\leetcodebek.dll
+C:\Users\merla\Desktop\leetcodebek\leetcodebek\bin\Debug\net11.0\leetcodebek.pdb
+C:\Users\merla\Desktop\leetcodebek\leetcodebek\obj\Debug\net11.0\leetcodebek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merla\Desktop\leetcodebek\leetcodebek\obj\Debug\net11.0\leetcodebek.AssemblyInfoInputs.cache
+C:\Users\merla\Desktop\leetcodebek\leetcodebek\obj\Debug\net11.0\leetcodebek.AssemblyInfo.cs
+C:\Users\merla\Desktop\leetcodebek\leetcodebek\obj\Debug\net11.0\leetcodebek.csproj.CoreCompileInputs.cache
+C:\Users\merla\Desktop\leetcodebek\leetcodebek\obj\Debug\net11.0\leetcodebek.sourcelink.json
+C:\Users\merla\Desktop\leetcodebek\leetcodebek\obj\Debug\net11.0\leetcodebek.dll
+C:\Users\merla\Desktop\leetcodebek\leetcodebek\obj\Debug\net11.0\refint\leetcodebek.dll
+C:\Users\merla\Desktop\leetcodebek\leetcodebek\obj\Debug\net11.0\leetcodebek.pdb
+C:\Users\merla\Desktop\leetcodebek\leetcodebek\obj\Debug\net11.0\leetcodebek.genruntimeconfig.cache
+C:\Users\merla\Desktop\leetcodebek\leetcodebek\obj\Debug\net11.0\ref\leetcodebek.dll
+C:\Users\merla\Desktop\leetcodebek\leetcodebek\obj\Debug\net11.0\leetcode.F411C2F7.Up2Date

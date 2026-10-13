@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Islambek\\Desktop\\Projects\\leetcodebek\\leetcodebek\\leetcodebek.csproj": {}
+    "C:\\Users\\merla\\Desktop\\leetcodebek\\leetcodebek\\leetcodebek.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Islambek\\Desktop\\Projects\\leetcodebek\\leetcodebek\\leetcodebek.csproj": {
+    "C:\\Users\\merla\\Desktop\\leetcodebek\\leetcodebek\\leetcodebek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Islambek\\Desktop\\Projects\\leetcodebek\\leetcodebek\\leetcodebek.csproj",
+        "projectUniqueName": "C:\\Users\\merla\\Desktop\\leetcodebek\\leetcodebek\\leetcodebek.csproj",
         "projectName": "leetcodebek",
-        "projectPath": "C:\\Users\\Islambek\\Desktop\\Projects\\leetcodebek\\leetcodebek\\leetcodebek.csproj",
-        "packagesPath": "C:\\Users\\Islambek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Islambek\\Desktop\\Projects\\leetcodebek\\leetcodebek\\obj\\",
+        "projectPath": "C:\\Users\\merla\\Desktop\\leetcodebek\\leetcodebek\\leetcodebek.csproj",
+        "packagesPath": "C:\\Users\\merla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\merla\\Desktop\\leetcodebek\\leetcodebek\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Islambek\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\merla\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net11.0"
