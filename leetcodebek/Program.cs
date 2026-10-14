@@ -1,5 +1,5 @@
 ﻿using leetcodebek;
 
-var arr = new[] {4, 2, 1, 6, 3};
-Helpers.RunAndMeasureTime(() => Sorting.InsertionSort(arr));
+int[] arr = [1, 10, 5];
+Sorting.QuickSort(arr, (a, b) => a.CompareTo(b));
 Console.WriteLine(string.Join(", ", arr));
